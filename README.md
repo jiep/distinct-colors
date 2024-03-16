@@ -1,5 +1,7 @@
 # Distinct colors
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a22d1be0-a111-4081-ac6e-5cfe7377a372/deploy-status)](https://app.netlify.com/sites/distinct-colors/deploys)
+
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
 ## Recommended IDE Setup
