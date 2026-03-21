@@ -57,6 +57,7 @@ jobs:
       - name: Create GitHub Release
         run: |
           gh release create ${{ env.VERSION }} \
+            --repo ${{ github.repository }} \
             --title "${{ env.VERSION }}" \
             --generate-notes \
             ${{ env.PROJECT_NAME }}-${{ env.VERSION }}.tar.gz
