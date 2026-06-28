@@ -11,7 +11,7 @@
     "vue": "3.5.38"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "4.2.2",
+    "@tailwindcss/postcss": "4.3.1",
     "@vitejs/plugin-vue": "6.0.6",
     "postcss": "8.5.15",
     "tailwindcss": "4.3.1",
